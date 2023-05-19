@@ -236,7 +236,7 @@ header {
 	z-index: 99999;
 	width: 100%;
 	background-color: transparent!important;
-	height: 80px;
+	height: 90px;
 	-webkit-transition: all 0.3s ease-in-out 0s;
     -moz-transition: all 0.3s ease-in-out 0s;
     -o-transition: all 0.3s ease-in-out 0s;
@@ -275,9 +275,9 @@ header .navbar {
 }
 .navbar .navbar-brand h2 {
 	color: #fff;
-	text-transform: uppercase;
-	font-size: 24px;
-	font-weight: 700;
+	text-transform: sentencecase;
+	font-size: 16px;
+	font-weight: 300;
 	-webkit-transition: all .3s ease 0s;
     -moz-transition: all .3s ease 0s;
     -o-transition: all .3s ease 0s;
@@ -1146,9 +1146,9 @@ footer .contact-form button.filled-button:hover {
 	width: 100%;
 	padding: 30px 30px;
 	display: inline-block;
-	background-color: #a4c639;
+	background-color: #072D5B;
   	font-size: 20px;
-  	color: #121212;
+  	color: #FF914D;
   	letter-spacing: 0.5px;
   	font-weight: 700;
   	transition: all 0.3s;

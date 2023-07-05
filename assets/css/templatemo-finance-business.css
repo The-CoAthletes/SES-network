@@ -1067,22 +1067,64 @@ footer .contact-form button.filled-button:hover {
 	color: #fff;
 }
 
+.page2-heading{ 
+	text-align: center;
+	background-image: url(../images/page-heading-bg2.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
+
+.page3-heading{ 
+	text-align: center;
+	background-image: url(../images/page-heading-bg3.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 230px 0px 150px 0px;
+	color: #fff;
+}
+
 .page-heading h1 {
 	text-transform: capitalize;
-	font-size: 36px;
+	font-size: 50px;
 	font-weight: 700;
+	color: #FFf;
 	letter-spacing: 2px;
 	margin-bottom: 18px;
 }
 
+.page2-heading h1 {
+	text-transform: capitalize;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-bottom: 18px;
+}
+.page3-heading h1 {
+	text-transform: capitalize;
+	font-size: 50px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin-bottom: 18px;
+}
 .page-heading span {
-	font-size: 15px;
+	font-size: 40px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	color: #fff;
 	display: block;
 }
-
+.page2-heading span {
+	font-size: 30px;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #fff;
+	display: block;
+}
 
 /* team */
 

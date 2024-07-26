@@ -381,7 +381,7 @@ header .navbar {
 }
 
 .Modern-Slider .item .img-fill {
-	background-size: cover;
+	background-size: contain;
 	background-position: center center;
 	background-repeat: no-repeat;
 	height:95vh;
@@ -390,6 +390,8 @@ header .navbar {
 .Modern-Slider .item-1 .img-fill {
 	background-image: url(../images/slide_01.jpg);
 }
+
+
 
 .Modern-Slider .item-2 .img-fill {
 	background-image: url(../images/slide_02.jpg);
